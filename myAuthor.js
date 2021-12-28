@@ -126,4 +126,78 @@ export const contentData = {
       desc: 'Belajar dari aplikasi android Sololearn sejak 2017. ',
     },
   ],
+  project: [
+    {
+      id: 1,
+      name: 'SIAKAD (Sistem Informasi Akademik)',
+      description: '',
+      tools: [
+        {
+          id: 1,
+          name: 'NextJS',
+          svg: '',
+        },
+        {
+          id: 2,
+          name: 'TailwindCSS',
+          svg: '',
+        },
+        {
+          id: 3,
+          name: 'Recoil',
+          svg: '',
+        },
+        {
+          id: 4,
+          name: 'Firebase',
+          svg: '',
+        },
+      ],
+      preview: '',
+      startTime: 'Nov 2021',
+    },
+    {
+      id: 2,
+      name: 'SIAKAD (Sistem Informasi Akademik) App',
+      description: '',
+      tools: [
+        {
+          id: 1,
+          name: 'React Native',
+          svg: '',
+        },
+        {
+          id: 2,
+          name: 'TailwindCSS',
+          svg: '',
+        },
+        {
+          id: 3,
+          name: 'Firebase',
+          svg: '',
+        }
+      ],
+      preview: '',
+      startTime: 'Dec 2021',
+    },
+    {
+      id: 3,
+      name: 'Astroliq',
+      description: '',
+      tools: [
+        {
+          id: 1,
+          name: 'NextJS',
+          svg: '',
+        },
+        {
+          id: 2,
+          name: 'MaterialUI',
+          svg: '',
+        }
+      ],
+      preview: '',
+      startTime: 'Jan 2021',
+    }
+  ]
 }

@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fwp-collection","\u002Fabout","\u002Fportofolio","\u002Fgithub"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
